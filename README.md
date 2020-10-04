@@ -57,3 +57,4 @@
 |25|Mark Negodyuk   | 8   | MNegodyuk |<https://github.com/MNegodyuk/my_website>   |<https://mnegodyuk.netlify.app/>        |2020-10-03 
 |26|Pingchuan Tian   | 6   | Pingchuan-Tian |<https://github.com/Pingchuan-Tian/my_website>   |<https://pingchuan-tian.netlify.app/>        |2020-10-03 
 |27|Cathy-Yuanmeng-Gu | 17 | cathy-gu |https://github.com/cathy-gu/my_website#my_website   |https://cathygu.netlify.app        |2020-10-04
+|28| Kyle Scheps | 15 | kylescheps | <https://github.com/kylescheps/my_website> | <https://kyles0.netlify.app/> | 2020-10-04
